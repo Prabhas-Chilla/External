@@ -1,3 +1,0 @@
-
-print("python file executrrrrsed ")
-
